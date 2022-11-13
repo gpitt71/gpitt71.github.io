@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal webpage"
+title                    : "Personal website"
 title_separator          : "-"
 name                     : &name "Gabriele Pittarello"
 description              : &description "personal description"
