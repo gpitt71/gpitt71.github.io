@@ -20,6 +20,6 @@ Working papers
 Software
 ============
 
-* Pittarello G., Hiabu M., and Villegas A. (2022), `clmplus (R package) <https://github.com/gpitt71/clmplus>`_ . 
+* Pittarello G., Hiabu M., and Villegas A. (2022), [clmplus (R package) ](https://github.com/gpitt71/clmplus). 
 
-* Pittarello G., Luini E. and Marchione M.M. (2022), `GEMAct (Python package) <https://github.com/gpitt71/gemact-code>`_ . 
+* Pittarello G., Luini E. and Marchione M.M. (2022), [GEMAct (Python package)](https://github.com/gpitt71/gemact-code). . 
