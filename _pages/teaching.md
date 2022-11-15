@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: " teachh"
-permalink: /publications/
+permalink: /teaching/
 author_profile: true
 ---
 
