@@ -8,8 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Actuarial Science at the Sapienza, University of Rome. Currently, I am visiting the University of Copenhagen.
-I work on predictive models for non-life insurance under the supervision of professor Gian Paolo Clemente and professor Munir Hiabu.
+I am a Ph.D. student in Actuarial Science at the Sapienza, University of Rome. Currently, I am visiting the University of Copenhagen. 
+
+I work under the supervision of professor Gian Paolo Clemente and professor Munir Hiabu.
+
+My research intrests are:
+
+* Predictive models for non-life insurance with applications to claims reserving.
+* (Re)insurance pricing.
+* Algorithms applied to probability. 
 
 
 Education
