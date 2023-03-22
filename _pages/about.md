@@ -16,12 +16,11 @@ My research intrests are:
 
 * Predictive models for non-life insurance with applications to claims reserving.
 * (Re)insurance pricing.
-* Algorithms applied to probability. 
 
 
 Education
 ========================
 
-* 2020--2023 Ph.D. in Actuarial Science, Sapienza, Università di Roma, Rome (IT). (expected)
+* 2020--2024 Ph.D. in Actuarial Science, Sapienza, Università di Roma, Rome (IT). (expected)
 * 2018--2020 M.Sc. in Statistical and Actuarial Science, Università Cattolica del Sacro Cuore, Milano (IT).  
 * 2015--2018 B.Sc. in Business Economics, Università degli Studi di Milano-Bicocca, Milano (IT).  

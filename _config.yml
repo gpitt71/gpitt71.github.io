@@ -84,11 +84,11 @@ author:
   avatar           : "profile.png"
   bio              : "Ph.D. student"
   location         : "Roma, IT // Copenhagen, DK"
-  employer         :
+  employer         : "Sapienza, Università di Roma"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=nWmvkugAAAAJ&hl=it&oi=ao"
   email            : "gabriele.pittarello@uniroma1.it"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Gabriele-Pittarello"
   uri              :
   bitbucket        :
   codepen          :
