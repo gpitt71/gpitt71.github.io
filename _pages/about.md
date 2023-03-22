@@ -21,6 +21,6 @@ My research intrests are:
 Education
 ========================
 
-* 2020--2024 Ph.D. in Actuarial Science, Sapienza, Università di Roma, Rome (IT). (expected)
-* 2018--2020 M.Sc. in Statistical and Actuarial Science, Università Cattolica del Sacro Cuore, Milano (IT).  
-* 2015--2018 B.Sc. in Business Economics, Università degli Studi di Milano-Bicocca, Milano (IT).  
+* 2020 - 2024 Ph.D. in Actuarial Science, Sapienza, Università di Roma, Rome (Italy). (expected)
+* 2018 - 2020 M.Sc. in Statistical and Actuarial Science, Università Cattolica del Sacro Cuore, Milan (Italy).  
+* 2015 - 2018 B.Sc. in Business Economics, Università degli Studi di Milano-Bicocca, Milan (Italy).  
