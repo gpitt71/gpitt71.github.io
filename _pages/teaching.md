@@ -12,7 +12,7 @@ author_profile: true
 
 * 2022 (Block 1), **Reserving in Non-Life Insurance**, University of Copenhagen, Copenhagen (Denmark). Elective course, $\sim$ 30 students, 7.5 ECTS.
 
-* 2022, **R programming- Base and Advanced Course**, Projectland Srl, Milan (Italy). Industry webinars, targeted lectures.
+* 2022-- present, **R programming- Base and Advanced Course**, Projectland Srl, Milan (Italy). Industry webinars, targeted lectures.
 
 # Other Appointments
 

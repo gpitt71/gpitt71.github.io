@@ -22,3 +22,6 @@ author_profile: true
 * June 15 - June 17, **Insurance Data Science**. Università Cattolica del Sacro Cuore, Milan (Italy). Talk: *Bayesian Neural Networks applied to chain ladder reserving*.
 
 * April 20 - April 22, **Mathematical and Statistical Methods for Actuarial Sciences and Finance 2022** (online). University of Salerno, Salerno (Italy). Talk: *GEMAct: a Python package for non-life (re)insurance modeling*.
+
+
+
