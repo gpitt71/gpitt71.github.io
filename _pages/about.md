@@ -16,6 +16,7 @@ My research intrests are:
 
 * Predictive models for non-life insurance with applications to claims reserving.
 * (Re)insurance pricing.
+* Survival analysis.
 
 
 Education
