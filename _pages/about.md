@@ -18,6 +18,7 @@ My research intrests are:
 * (Re)insurance pricing.
 * Survival analysis.
 
+I enjoy coding and I try to develop open-source tools for practitioners and academics alongside with my research.
 
 Education
 ========================

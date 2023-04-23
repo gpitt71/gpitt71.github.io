@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Working papers
+Submitted manuscripts
 ========================
 
 * Pittarello G., Hiabu M. and Villegas A. (2022), Chain Ladder +: a versatile approach for claims reserving [pre-print](https://arxiv.org/abs/2301.03858).
