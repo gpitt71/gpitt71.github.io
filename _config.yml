@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Gabriele Pittarello"
+  name             : #"Gabriele Pittarello"
   avatar           : "profile.png"
   bio              : "Ph.D. student"
   location         : "Roma, IT // Copenhagen, DK"
