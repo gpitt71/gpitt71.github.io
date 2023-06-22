@@ -11,7 +11,7 @@ author_profile: true
 
 * July 04 - July 07 (upcoming), **26th International Congress on Insurance: Mathematics and Economics**. Heriot-Watt University, Edinburgh (UK). Talk: *Chain-ladder plus: a versatile approach for claims reserving*.
 
-* June 15 - June 16 (upcoming), **Insurance Data Science**. Bayes Business School, City, University of London, London (UK). Talk: *Chain-ladder plus: a versatile approach for claims reserving*.
+* June 15 - June 16, **Insurance Data Science**. Bayes Business School, City, University of London, London (UK). Talk: *Chain-ladder plus: a versatile approach for claims reserving*.
 
 * January 30 - February 3, **Perspectives in Actuarial Risks in Talks of Young researchers 2023**. Valencia (Spain). Talk: *Chain-ladder plus: a versatile approach for claims reserving*.
 
