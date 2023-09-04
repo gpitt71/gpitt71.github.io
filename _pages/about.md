@@ -12,7 +12,7 @@ I am a Ph.D. student in Actuarial Science at the Sapienza, University of Rome. C
 
 I work under the supervision of professor Gian Paolo Clemente and professor Munir Hiabu.
 
-My research intrests are:
+My research interests are:
 
 * Predictive models for non-life insurance with applications to claims reserving.
 * (Re)insurance pricing.
