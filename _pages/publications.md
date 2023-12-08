@@ -17,6 +17,11 @@ Submitted manuscripts
 * Pittarello G., Luini E. and Marchine M.M. (2022), GEMAct: a Python package for non-life (re)insurance. [ArXiV:2303.01129](https://arxiv.org/abs/2303.01129).
 
 
+Working papers
+========================
+
+* Hiabu M., Hofman E. D., and Pittarello G. (2023), A machine learning approach based on survival analysis for IBNR frequencies in non-life reserving. 
+
 Software
 ============
 
