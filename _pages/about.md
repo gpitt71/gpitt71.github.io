@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student in Actuarial Science at the Sapienza University of Rome.  
 
-I am working under the supervision of Professor Gian Paolo Clemente and Professor Munir Hiabu.
+I work under the supervision of Associate Professor Gian Paolo Clemente and Assistant Professor Munir Hiabu.
 
 My research interests are:
 
