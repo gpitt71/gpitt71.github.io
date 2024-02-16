@@ -14,9 +14,9 @@ I work under the supervision of Associate Professor Gian Paolo Clemente and Assi
 
 My research interests are:
 
-* Predictive models for non-life insurance with applications to loss reserving.
-* (Re)insurance pricing.
 * Survival analysis.
+* Prediction models.
+* Actuarial models for non-life insurance: loss reserving and (re)insurance pricing.
 
 I enjoy programming and try to develop open source tools for practitioners and academics alongside my research.
 
