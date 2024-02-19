@@ -16,7 +16,7 @@ Peer-reviewed articles
 Submitted manuscripts
 ========================
 
-* Hiabu M., Hofman E. D., and Pittarello G. (2023), A machine learning approach based on survival analysis for IBNR frequencies in non-life reserving. 
+* Hiabu M., Hofman E. D., and Pittarello G. (2023), A machine learning approach based on survival analysis for IBNR frequencies in non-life reserving. [ArXiV:2312.14549](https://arxiv.org/abs/2312.14549)
 
 * Bladt, M. and Pittarello G. (2023) Individual claims reserving using the Aalen–Johansen estimator. [ArXiV:2311.07384](https://arxiv.org/pdf/2311.07384.pdf)
 
