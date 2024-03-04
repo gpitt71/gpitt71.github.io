@@ -10,8 +10,6 @@ redirect_from:
 
 I am a PhD candidate in Actuarial Science at the Sapienza University of Rome. Since March 2024 I have started a new postdoctoral position at the University of Turin.
 
-I work under the supervision of Associate Professor Gian Paolo Clemente and Assistant Professor Munir Hiabu.
-
 My research interests are:
 
 * Survival analysis.
