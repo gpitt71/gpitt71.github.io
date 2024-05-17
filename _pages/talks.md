@@ -11,7 +11,7 @@ author_profile: true
 
 * August 14 - August 16, **Scandinavian Actuarial Conference 2024**. University of Copenhagen, Copenhagen (DK). Talk: *A machine learning approach based on survival analysis for IBNR frequencies in non-life reserving*.
 
-* June 17 - July 18, **Insurance Data Science**. Stockholm University, Stockholm (SWE). Talk: *Individual claims reserving using the Aalen-Johansen*.
+* June 17 - July 18, **Insurance Data Science**. Stockholm University, Stockholm (SWE). Talk: *Individual claims reserving using the conditional Aalen-Johansen estimator*.
 
 ### 2023
 
