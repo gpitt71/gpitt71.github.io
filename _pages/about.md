@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Actuarial Science at the Sapienza University of Rome. Since March 2024 I have started a new postdoctoral position at the University of Turin.
+I am a Postdoctoral Fellow at the University of Turin.
 
 My research interests are:
 
@@ -21,6 +21,6 @@ I enjoy programming and try to develop open source tools for practitioners and a
 Education
 ========================
 
-* 2020 - 2024 Ph.D. in Actuarial Science, Sapienza, Università di Roma, Rome (Italy). (expected)
+* 2020 - 2024 Ph.D. in Actuarial Science, Sapienza, Università di Roma, Rome (Italy).
 * 2018 - 2020 M.Sc. in Statistical and Actuarial Science, Università Cattolica del Sacro Cuore, Milan (Italy).  
 * 2015 - 2018 B.Sc. in Business Economics, Università degli Studi di Milano-Bicocca, Milan (Italy).  
