@@ -22,6 +22,13 @@ Submitted manuscripts
 
 * Pittarello G., Hiabu M. and Villegas A. (2022), Replicating and extending chain-ladder via an age-period-cohort structure on the claim development in a run-off triangle [ArXiV:2301.03858](https://arxiv.org/abs/2301.03858).
 
+Technical reports
+====================
+
+* <a href="files/casvignette.pdf">Hiabu M., Hofman E. D., and Pittarello G. (2024), Individual claims reserving with ReSurv.</a>
+
+* McGuire, G., Pittarello, G. (2022). Reserving with glms in Python. Machine Learning in Reserving Working Party, Institute and Faculty of Actuaries (IFoA). https://institute-and-faculty-of-actuaries.github.io/mlr-blog/post/foundations/python-glms/ 
+
 Software
 ============
 
