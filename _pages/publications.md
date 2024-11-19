@@ -25,7 +25,7 @@ Submitted manuscripts
 Technical reports
 ====================
 
-* Hiabu M., Hofman E. D., and Pittarello G. (2024). <a href="https://github.com/gpitt71/gpitt71.github.io/blob/master/files/casvignette.pdf"> Individual claims reserving with ReSurv.</a>
+* Hiabu M., Hofman E. D., and Pittarello G. (2024). <a href="https://github.com/gpitt71/gpitt71.github.io/blob/master/files/casvignette.pdf"> Claim Counts Prediction with Individual Data Using ReSurv.</a>
 
 * McGuire, G., Pittarello, G. (2022). [Reserving with glms in Python. Machine Learning in Reserving Working Party](https://institute-and-faculty-of-actuaries.github.io/mlr-blog/post/foundations/python-glms/), Institute and Faculty of Actuaries (IFoA).
 
