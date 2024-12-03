@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Fellow at the University of Turin.
+I am a Postdoc in the Section of Biostatistics, at the Department of Public Health of the University of Copenhagen.
+
+You can contact me at name(dot)surname(at)sund(dot)ku(dot)dk.
 
 My research interests are:
 
