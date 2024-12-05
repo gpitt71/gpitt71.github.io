@@ -11,7 +11,7 @@ author_profile: true
 Peer-reviewed articles
 ========================
 
-* Bladt, M. and Pittarello G. (2024) Individual claims reserving using the Aalen–Johansen estimator. ASTIN Bullettin - The Journal of the IAA, to appear. [ArXiV:2311.07384](https://arxiv.org/pdf/2311.07384.pdf)
+* Bladt, M. and Pittarello G. (2024) Individual claims reserving using the Aalen–Johansen estimator. ASTIN Bullettin - The Journal of the IAA. Published online 2024:1-21. doi:10.1017/asb.2024.28. [ArXiV:2311.07384](https://arxiv.org/pdf/2311.07384.pdf)
 
 * Pittarello G., Luini E. and Marchione MM. GEMAct: a Python package for non-life (re)insurance modeling. Annals of Actuarial Science. Published online 2024:1-37. doi:10.1017/S1748499524000022. [ArXiV:2303.01129](https://arxiv.org/abs/2303.01129).
 
