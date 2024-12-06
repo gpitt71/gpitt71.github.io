@@ -82,12 +82,12 @@ analytics:
 author:
   name             : #"Gabriele Pittarello"
   avatar           : "profile.png"
-  bio              : "Postdoc"
-  location         : "Øster Farimagsgade 5 opg. B, København K"
-  employer         : "University of Copenhagen"
+  bio              : "Postdoc, University of Copenhagen"
+  location         : "Øster Farimagsgade 5 opg. B"
+  employer         : "København K"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=nWmvkugAAAAJ&hl=it&oi=ao"
-  email            : "gabriele.pittarello@unito.it"
+  email            : "gabriele.pittarello@sund.ku.dk"
   researchgate     :  "https://www.researchgate.net/profile/Gabriele-Pittarello"
   uri              :
   bitbucket        :
