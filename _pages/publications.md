@@ -11,7 +11,7 @@ author_profile: true
 Peer-reviewed articles
 ========================
 
-* Pittarello G., Hiabu M. and Villegas A. (2022), Replicating and extending chain-ladder via an age-period-cohort structure on the claim development in a run-off triangle. North American Actuarial Journal (accepted) [ArXiV:2301.03858](https://arxiv.org/abs/2301.03858).
+* Pittarello, G., Hiabu, M., & Villegas, A. M. (2025). Replicating and Extending Chain-Ladder via an Age–Period–Cohort Structure on the Claim Development in a Run-Off Triangle. North American Actuarial Journal, 1-31. [ArXiV:2301.03858](https://arxiv.org/abs/2301.03858).
 
 * Bladt, M. and Pittarello G. (2024) Individual claims reserving using the Aalen–Johansen estimator. ASTIN Bullettin - The Journal of the IAA. Published online 2024:1-21. doi:10.1017/asb.2024.28. [ArXiV:2311.07384](https://arxiv.org/pdf/2311.07384.pdf)
 
@@ -19,6 +19,8 @@ Peer-reviewed articles
 
 Submitted manuscripts
 ========================
+
+* Lindholm M., and Pittarello G. (2025), Forecasting sub-population mortality using credibility theory. [ArXiV:2507.12330](https://arxiv.org/abs/2507.12330)
 
 * Hiabu M., Hofman E. D., and Pittarello G. (2023), A machine learning approach based on survival analysis for IBNR frequencies in non-life reserving. [ArXiV:2312.14549](https://arxiv.org/abs/2312.14549)
 
