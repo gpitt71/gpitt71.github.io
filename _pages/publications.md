@@ -24,6 +24,10 @@ Submitted manuscripts
 
 * Hiabu M., Hofman E. D., and Pittarello G. (2023), A machine learning approach based on survival analysis for IBNR frequencies in non-life reserving. [ArXiV:2312.14549](https://arxiv.org/abs/2312.14549)
 
+Working papers
+========================
+
+* Pittarello G., Gerds T., and Rytgaard H.C., A Poisson super-learner for the time-to-event analysis of survival and competing risks data.
 
 Technical reports
 ====================
