@@ -15,7 +15,6 @@ You can contact me at name(dot)surname(at)sund(dot)ku(dot)dk.
 My research interests are:
 
 * Survival analysis.
-* Machine learning models for estimating the hazard function.
 * Statistical models for age-period-cohort data.
 * Actuarial models for non-life insurance: loss reserving and (re)insurance pricing.
 
